@@ -1,0 +1,21 @@
+{
+	'site':{
+		'name':'ELNSK',
+		'year':'2016',
+		'url':'',
+		'logourl':'/logo_elnsk.png',
+		'color':[
+			'f0efeb',
+			'e46000',
+			'252728',
+			'9fa0a0',
+			'999999'
+		]
+	},
+	'contacts':
+	{
+		'address':'',
+		'mail':'ssau_oleg@list.ru',
+		'phone':'8 937 658 8471'
+	}
+}
